@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 文章（不进仓库）
+article*.md
+
+# 训练生成的产物（运行 train.py 会重新生成）
+before.txt
+after.txt
+loss.csv
+loss_curve.png
+gpt_checkpoint.pt
