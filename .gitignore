@@ -5,6 +5,7 @@ __pycache__/
 
 # 文章（不进仓库）
 article*.md
+article*.html
 
 # 训练生成的产物（运行 train.py 会重新生成）
 before.txt
